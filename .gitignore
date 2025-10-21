@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+
+# Mac system files
+.DS_Store
+
+# Optional: IDE/editor folders (uncomment if you use these)
+# .vscode/
+# .idea/
