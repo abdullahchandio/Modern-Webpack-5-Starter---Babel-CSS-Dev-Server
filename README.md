@@ -17,8 +17,6 @@ npm install
 npm start
 ```
 
-Runs the Webpack development server with **hot module replacement** for fast and efficient frontend development.
-
 ---
 
 #### 🏗️ Build for Production
